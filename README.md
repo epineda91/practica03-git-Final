@@ -1,18 +1,28 @@
-## Getting Started
+# CALCULADORA DE DIVIDAS CON JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta es una aplicación de calculadora de divisas simple desarrollada en Python utilizando POO.
 
-## Folder Structure
+**Asignatura:** Desarrollo Web 1  
+**TSU:** Desarrollo de Software de Código Abierto  
+**Nombres:** Edwin Fernando
+**Apellidos:** Sanchez Pineda 
 
-The workspace contains two folders by default, where:
+## Requisitos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- JAVA
+- Biblioteca `requests`
+- Descarga e instalación de la librería GSON
+- https://drive.google.com/file/d/1y2RW1wmGpJhnXIFHxszFZ6zaJ9NWDYjX/view?usp=sharing
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Instalación
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. Clona el archivo GSON en lib
+2. Instala las dependencias 
+3. Configura tu clave en codigo
+4. Corre gson 2.1.1.0
 
-## Dependency Management
+## Uso
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Licencia
+
+MIT License
